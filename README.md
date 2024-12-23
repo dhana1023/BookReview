@@ -28,9 +28,7 @@ A modern web application for sharing and discovering book reviews. Users can bro
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone [repository-url]
-```
+
 
 2. Install dependencies:
 
