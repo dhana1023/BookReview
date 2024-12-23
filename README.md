@@ -33,9 +33,7 @@ git clone [repository-url]
 ```
 
 2. Install dependencies:
-```bash
-npm install
-```
+
 
 3. Create a `.env` file in the root directory with your MySQL configuration:
 ```env
@@ -50,7 +48,7 @@ DB_NAME=book_reviews
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
+
 
 ## Project Structure
 
@@ -92,15 +90,7 @@ CREATE TABLE reviews (
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Deployment
-
-The application is deployed on Netlify and can be accessed at:
-https://glowing-biscotti-aca2ee.netlify.app
-# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
